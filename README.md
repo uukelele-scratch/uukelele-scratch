@@ -6,9 +6,7 @@ Hello! I'm [@uukelele](https://scratch.mit.edu/users/uukelele) on Scratch.
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=default">
 </picture>
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true)
-
-[GitHub metrics](https://metrics.lecoq.io/uukelele-ffried)
+<!-- [GitHub stats](https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true) -->
 
 
 <!---
