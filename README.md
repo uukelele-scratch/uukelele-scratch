@@ -1,5 +1,7 @@
 Hello! I'm [@uukelele](https://scratch.mit.edu/users/uukelele) on Scratch.
 
+My languages: C#, Python, JavaScript, and the HTML stack.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=transparent">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=default">
