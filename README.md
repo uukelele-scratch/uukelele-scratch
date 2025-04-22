@@ -1,13 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=transparent">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=default">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=default">
-</picture>
+|GitHub Stats|Top Languages|
+|-|-|
+|<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=transparent"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=default"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true&theme=default"></picture>|<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact&theme=transparent"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact&theme=default"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact&theme=default"></picture>|
 
-<!-- [GitHub stats](https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true) -->
-
-
-<!---
-uukelele-scratch/uukelele-scratch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=uukelele-scratch&show_icons=true&count_private=true) -->
+<!-- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact) -->
