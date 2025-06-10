@@ -1,8 +1,8 @@
 ## Contributions
-| Repository | Open PRs | Draft PRs | Merged PRs | Closed PRs | Total PRs |
-| ---------- | -------- | --------- | ---------- | ---------- | --------- |
-| [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) | 4 | 1 | 5 | 2 | **12** |
-| [TimMcCool/scratchattach](https://github.com/TimMcCool/scratchattach) | 0 | 0 | 2 | 0 | **2** |
+| Repository |
+| ---------- |
+| [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) |
+| [TimMcCool/scratchattach](https://github.com/TimMcCool/scratchattach) |
 
 |GitHub Stats|Top Languages|
 |-|-|
