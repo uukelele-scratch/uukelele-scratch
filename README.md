@@ -34,10 +34,6 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact&theme=transparent&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact&theme=default&hide_border=true"><img alt="Top Languages" src="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele-scratch&layout=compact&theme=default&hide_border=true"></picture>
 </div>
 
-* **4+** years of engineering experience
-* **15k+** total stars across contributed projects
-* **30+** merged PRs in open source
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
   <img width="12" />
