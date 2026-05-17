@@ -1,10 +1,20 @@
 <div align="center">
   <img src="https://github.com/uukelele/uukelele/blob/main/uukelele-2x.webp?raw=true" height="128" />
   <h1 align="center">uukelele</h1>
-  <h3><kbd>𝚂𝙴𝙼𝙸-𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙸𝙾𝙽𝙰𝙻 𝚂𝙾𝙵𝚃𝚆𝙰𝚁𝙴 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁</kbd> • <kbd>𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙾𝚁</kbd> • <kbd>𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝚁𝙴𝚂𝙴𝙰𝚁𝙲𝙷𝙴𝚁</kbd></h3>
+  <div align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/semi_professional-software_engineer-_?style=for-the-badge&logo=litiengine&logoColor=white&labelColor=black&color=rebeccapurple">
+    <img alt="Static Badge" src="https://img.shields.io/badge/open_source-contributor-_?style=for-the-badge&logo=openmined&logoColor=white&labelColor=black&color=rebeccapurple">
+    <img alt="Static Badge" src="https://img.shields.io/badge/bug_bounty-hunter-_?style=for-the-badge&logo=privateinternetaccess&logoColor=white&labelColor=black&color=rebeccapurple">
+  </div>
 </div>
 
 <hr>
+
+## 𝙰𝙲𝙷𝙸𝙴𝚅𝙴𝙼𝙴𝙽𝚃𝚂
+
+<a href="https://github.com/open-webui/open-webui/security/advisories/GHSA-4j2m-5xvg-w788"><img alt="Static Badge" src="https://img.shields.io/badge/security_advisory-open_web_ui-_?style=for-the-badge&logo=openbugbounty&logoColor=white&labelColor=black&color=rebeccapurple&link=https%3A%2F%2Fgithub.com%2Fopen-webui%2Fopen-webui%2Fsecurity%2Fadvisories%2FGHSA-4j2m-5xvg-w788"></a>
+<a href="https://github.com/mindcraft-ce/mindcraft-ce"><img alt="Static Badge" src="https://img.shields.io/badge/100%2B-stars-_?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple&link=https%3A%2F%2Fgithub.com%2Fmindcraft-ce%2Fmindcraft-ce"></a>
+
 
 <img src="https://landsat.c00l.site/svg?text=uukelele&embed_image=true&attribution=true" />
 
@@ -43,8 +53,16 @@
 
 # 𝚂𝚃𝙰𝚃𝚂
 <div align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=transparent&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=default&hide_border=true"><img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=default&hide_border=true"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=transparent&hide_border=true"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=default&hide_border=true"><img alt="Top Languages" src="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=default&hide_border=true"></picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=transparent&hide_border=true">       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=default&hide_border=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=default&hide_border=true">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=transparent&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=default&hide_border=true">
+    <img alt="Top Languages" src="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=default&hide_border=true">
+  </picture>
 </div>
 
 <div align="center">
