@@ -1,0 +1,13 @@
+name: Compile README
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.gh.md'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: uukelele/gh-md@main
