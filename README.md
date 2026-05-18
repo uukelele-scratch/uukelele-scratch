@@ -1,82 +1,89 @@
 <div align="center">
-  <img src="https://github.com/uukelele/uukelele/blob/main/uukelele-2x.webp?raw=true" height="128" />
+<img src="https://github.com/uukelele/uukelele/blob/main/uukelele-2x.webp?raw=true" height="128" />
   <h1 align="center">uukelele</h1>
   <div align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/semi_professional-software_engineer-_?style=for-the-badge&logo=litiengine&logoColor=white&labelColor=black&color=rebeccapurple">
-    <img alt="Static Badge" src="https://img.shields.io/badge/open_source-contributor-_?style=for-the-badge&logo=openmined&logoColor=white&labelColor=black&color=rebeccapurple">
-    <img alt="Static Badge" src="https://img.shields.io/badge/bug_bounty-hunter-_?style=for-the-badge&logo=privateinternetaccess&logoColor=white&labelColor=black&color=rebeccapurple">
-  </div>
+<img alt="Static Badge" src="https://img.shields.io/badge/semi_professional-software_engineer-_?style=for-the-badge&logo=litiengine&logoColor=white&labelColor=black&color=rebeccapurple" />
+<img alt="Static Badge" src="https://img.shields.io/badge/open_source-contributor-_?style=for-the-badge&logo=openmined&logoColor=white&labelColor=black&color=rebeccapurple" />
+<img alt="Static Badge" src="https://img.shields.io/badge/bug_bounty-hunter-_?style=for-the-badge&logo=privateinternetaccess&logoColor=white&labelColor=black&color=rebeccapurple" />
+</div>
 </div>
 
 <hr>
 
-## 𝙰𝙲𝙷𝙸𝙴𝚅𝙴𝙼𝙴𝙽𝚃𝚂
+## <span aria-label="ACHIEVEMENTS"><span aria-hidden="true">𝙰𝙲𝙷𝙸𝙴𝚅𝙴𝙼𝙴𝙽𝚃𝚂</span></span>
 
-<a href="https://github.com/open-webui/open-webui/security/advisories/GHSA-4j2m-5xvg-w788"><img alt="Static Badge" src="https://img.shields.io/badge/security_advisory-open_web_ui-_?style=for-the-badge&logo=openbugbounty&logoColor=white&labelColor=black&color=rebeccapurple&link=https%3A%2F%2Fgithub.com%2Fopen-webui%2Fopen-webui%2Fsecurity%2Fadvisories%2FGHSA-4j2m-5xvg-w788"></a>
-<a href="https://github.com/mindcraft-ce/mindcraft-ce"><img alt="Static Badge" src="https://img.shields.io/badge/100%2B-stars-_?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple&link=https%3A%2F%2Fgithub.com%2Fmindcraft-ce%2Fmindcraft-ce"></a>
-
+<a href="https://github.com/open-webui/open-webui/security/advisories/GHSA-4j2m-5xvg-w788"><img alt="Static Badge" src="https://img.shields.io/badge/security_advisory-open_web_ui-_?style=for-the-badge&logo=openbugbounty&logoColor=white&labelColor=black&color=rebeccapurple" /></a>
+<a href="https://github.com/mindcraft-ce/mindcraft-ce"><img alt="Static Badge" src="https://img.shields.io/badge/100%2B-stars-_?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" /></a>
 
 <img src="https://landsat.c00l.site/svg?text=uukelele&embed_image=true&attribution=true" />
 
-# 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
+# <span aria-label="PROJECTS"><span aria-hidden="true">𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂</span></span>
 
-###### Hover over the projects for brief descriptions, or click the buttons for the relevant links.
-
-<h3 title="Don't build APIs. FUSE your frontend and backend together.">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="15" alt="fastapi" />
-  <img src="https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/docs/assets/logo-letter.svg" height="15" alt="uv" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="15" alt="svelte" />
-  <img src="https://raw.githubusercontent.com/ephaptic/ephaptic/refs/heads/main/docs/assets/logo.png" height="15" alt="ephaptic" />
-  Stack
-  •
-  <a href="https://uukelele.is-a.dev/blog/projects/fuse-stack"><kbd>Blog</kbd></a>
-  <a href="https://github.com/uukelele/fuse-template"><kbd>GitHub</kbd></a>
+<h3 align="left">
+  web2app 
+  <a href="https://github.com/uukelele/web2app"><kbd>GitHub</kbd></a>
 </h3>
-
-<h3 title="Call your backend straight from your frontend. No JSON. Low latency. Invisible middleware. And type-safe.">
-  ephaptic
-  <img src="https://raw.githubusercontent.com/ephaptic/ephaptic/refs/heads/main/.github/assets/logo.png" height="16" />
-  <a href="https://ephaptic.github.io/ephaptic"><kbd>Docs</kbd></a>
-  <a href="https://github.com/ephaptic/ephaptic"><kbd>GitHub</kbd></a>
+<p align="left">
+  PyPI package for converting a website into an app.
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-5-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/forks-3-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
+</p>
+<h3 align="left">
+  hybridoma 
+  <a href="https://github.com/uukelele/hybridoma"><kbd>GitHub</kbd></a>
 </h3>
-<h3 title="Coral is an AI agent with a Discord integration and built-in sandboxing and other tools.">
-  coral
-  •
-  <a href="https://github.com/uukelele/coral/"><kbd>GitHub</kbd></a>
+<p align="left">
+  Hybridoma: Write Python, get a reactive frontend - no JS framework required
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-4-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
+</p>
+<h3 align="left">
+  pybuild 
+  <a href="https://github.com/uukelele/pybuild"><kbd>GitHub</kbd></a>
 </h3>
-<h3 title="CLI Markdown renderer for the terminal. With more features than the rest ;)">
-  mkdn
-  •
-  <a href="https://github.com/uukelele/mkdn"><kbd>GitHub</kbd></a>
+<p align="left">
+  Build your Python projects, and turn them into packaged executables for all platforms.
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-3-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
+</p>
+<h3 align="left">
+  old-mindcraft-gui 
+  <a href="https://github.com/uukelele/old-mindcraft-gui"><kbd>GitHub</kbd></a>
 </h3>
+<p align="left">
+  [OLD - Check https://github.com/uukelele-scratch/mindcraft-gui for new version] GUI for Mindcraft
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-3-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
+</p>
 
-
-# 𝚂𝚃𝙰𝚃𝚂
+# <span aria-label="STATS"><span aria-hidden="true">𝚂𝚃𝙰𝚃𝚂</span></span>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=transparent&hide_border=true">       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=default&hide_border=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&theme=default&hide_border=true">
-  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&hide_border=true&theme=transparent"  />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&hide_border=true&theme=default" />
+    <img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api?username=uukelele&show_icons=true&count_private=true&hide_border=true&theme=default" />
+</picture>
+
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=transparent&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=default&hide_border=true">
-    <img alt="Top Languages" src="https://github-readme-stats-clone-wine.vercel.app/api/top-langs/?username=uukelele&layout=compact&theme=default&hide_border=true">
-  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs?username=uukelele&hide_border=true&layout=compact&theme=transparent"  />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs?username=uukelele&hide_border=true&layout=compact&theme=default" />
+    <img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api/top-langs?username=uukelele&hide_border=true&layout=compact&theme=default" />
+</picture>
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
-    <img width="12" />
-  <img src="https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/docs/assets/logo-letter.svg" height="40" alt="uv" />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte" />
-    <img width="12" />
-  <img src="https://raw.githubusercontent.com/ephaptic/ephaptic/refs/heads/main/docs/assets/logo.png" height="40" alt="ephaptic" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="Icon for fastapi" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/docs/assets/logo-letter.svg" height="40" alt="uv" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="40" alt="Icon for svelte" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/ephaptic/ephaptic/refs/heads/main/docs/assets/logo.png" height="40" alt="ephaptic" />
 </div>
 
 <hr>
 
 <p align="center">
-  <i>❝ ᴅᴏɴ'ᴛ ᴄᴏᴍᴍᴇɴᴛ ʙᴀᴅ ᴄᴏᴅᴇ — ʀᴇᴡʀɪᴛᴇ ɪᴛ. ❞ – ᗷᖇIᗩᑎ KEᖇᑎIGᕼᗩᑎ</i>
+  <i>❝ <span aria-label="don't comment bad code — rewrite it."><span aria-hidden="true">𝑑𝑜𝑛'𝑡 𝑐𝑜𝑚𝑚𝑒𝑛𝑡 𝑏𝑎𝑑 𝑐𝑜𝑑𝑒 — 𝑟𝑒𝑤𝑟𝑖𝑡𝑒 𝑖𝑡.</span></span> ❞ – ᗷᖇIᗩᑎ KEᖇᑎIGᕼᗩᑎ</i>
 </p>
